@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AulaActivity</string>
+    <string name="valor_1">Valor 1</string>
+    <string name="valor_2">Valor 2</string>
+    <string name="btCalcular">CALCULAR</string>
+    <string name="btLimpar">LIMPAR</string>
+</resources>
